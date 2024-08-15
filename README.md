@@ -23,3 +23,5 @@ Then, require the package and use it like so:
 ## License
 
 MIT
+
+https://github.com/OWNER/REPOSITORY/actions/workflows/WORKFLOW-FILE/badge.svg
