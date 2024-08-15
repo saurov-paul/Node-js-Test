@@ -19,9 +19,7 @@ Then, require the package and use it like so:
     console.log(isNullOrEmpty(undefined)); // true
 
     console.log(isNullOrEmpty("Hello World")); // false
+[![Node CI](https://github.com/saurov-paul/Node-js-Test/actions/workflows/whatever.yml/badge.svg)](https://github.com/saurov-paul/Node-js-Test/actions/workflows/whatever.yml)
 
 ## License
-
-MIT
-
-https://github.com/OWNER/REPOSITORY/actions/workflows/WORKFLOW-FILE/badge.svg
+MIT License
